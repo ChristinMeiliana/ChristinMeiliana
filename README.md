@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChristinMeiliana
+- 👋 Hi, I’m Christin Meiliana
 - 👀 I’m interested in all about programming backend,frontend,CI/CD, etc
 - 🌱 I’m currently learning Javascript and Typescript with React.Js and Next.Js
 - 💞️ I’m looking to collaborate on project part time
