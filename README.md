@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Christin Meiliana
-- 👀 Interesting for topics programming backend,frontend,CI/CD, etc
+- 👀 Interesting about backend,frontend,CI/CD programming
 - 🌱 Currently learning Javascript and Typescript with React.Js and Next.Js
 - 💞️ I’m looking to collaborate on project part time
 - 📫 Reach me via linkedIn
